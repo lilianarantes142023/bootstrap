@@ -1,0 +1,60 @@
+.bg-body-tertiary{
+    background-color: #FEF9E7 !important;
+}
+.nav-link{
+    color: #2E210F;
+
+}
+.nav-link:hover{
+    border-bottom: solid 1px #554023;
+}
+.active{
+    font-weight: bolder;
+}
+#btn-saiba-mais{
+    font-size: 18px;
+    font-weight: bold;
+    color: #2E210F;
+    border: solid 2px #554023;
+    border-radius: 30px;
+}
+#btn-saiba-mais:hover{
+    color:#E8A200;
+    background-color: #2E210F;
+    transition: linear 0.3s all;
+}
+.bg-warning{
+    background-color: #E8A200 !important;
+}
+.btn-secondary{
+    background-color: #E8A200;
+    color: #FFF;
+    font-size: 14px;
+    border: solid 2px #E8A200;
+}
+.btn-secondary:hover{
+    background-color: #FFF;
+    color: #E8A200;
+    border: solid 2px #E8A200;
+    transition: all linear 0,5s;
+}
+#campo:focus{
+    outline: none;
+    box-shadow: none;
+    border: solid 1px #E8A200;
+}
+.midias-socias:hover{
+    transform: rotate(15deg);
+    transition: all 03,5s;
+
+}
+.navbar-brand img{
+    max-width:80px;
+    max-height:100px;
+    
+}
+#navbarNav{
+    font-size: small;
+    font-weight: 900;
+    justify-content: center;
+}
